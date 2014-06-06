@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/sbtFirst.iml" filepath="$PROJECT_DIR$/.idea_modules/sbtFirst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/sbtFirst-build.iml" filepath="$PROJECT_DIR$/.idea_modules/sbtFirst-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sbtfirst.iml" filepath="$PROJECT_DIR$/.idea/modules/sbtfirst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sbtfirst-build.iml" filepath="$PROJECT_DIR$/.idea/modules/sbtfirst-build.iml" />
+    </modules>
+  </component>
+</project>
+
